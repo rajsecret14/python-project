@@ -1,7 +1,4 @@
 # list - odered 
-from traceback import print_tb
-
-
 a = [1,5,2,6,9]
 print(a)
 
