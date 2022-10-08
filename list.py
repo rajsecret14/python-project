@@ -16,5 +16,7 @@ b =["aditya ",1, False,5.0,0]
 print(b)
 print(b)
 # list slicing 
-friends = ["mohan","sam","45"]
-print(friends[0:3])
+friends=["mohan","sam",5,9,1000]
+print(friends[0:5])
+print(friends[-5:])
+
