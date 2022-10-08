@@ -1,10 +1,14 @@
-f1 = int(input("enter students marks 1 "))
-f2 = int(input("enter students marks 2 "))
-f3 = int(input("enter students marks 3 "))
-f4 = int(input("enter students marks 4 "))
-f5 = int(input("enter students marks 5 "))
-f6 = int(input("enter students marks 6 "))
-marks = [f1,f2,f3,f4,f5,f6]
-marks.sort()
-print(marks)
+s1 = int(input("enter marks of student 1  "))
+s2 = int(input("enter marks of student 2  "))
+s3 = int(input("enter marks of student 3  "))
+s4 = int(input("enter marks of student 4  "))
+s5 = int(input("enter marks of student 5  "))
+s6 = int(input("enter marks of student 6  "))
+mylist = [s1,s2,s3,s4,s5,s6]
+mylist.sort()
+print(mylist)
+
+
+
+
 
